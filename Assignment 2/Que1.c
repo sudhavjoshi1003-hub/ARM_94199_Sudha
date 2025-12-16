@@ -14,7 +14,7 @@ void print_bin(void *vp,int size)
           printf("1");
           else
           printf("0");
-          mask >>= 0;
+          mask >>= 1;
        }                     
            printf(" ");      
      }
