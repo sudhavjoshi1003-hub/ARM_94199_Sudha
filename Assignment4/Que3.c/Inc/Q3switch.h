@@ -1,0 +1,17 @@
+/*
+ * Q3switch.h
+ *
+ *  Created on: Dec 18, 2025
+ *      Author: DELL
+ */
+
+#ifndef Q3SWITCH_H_
+#define Q3SWITCH_H_
+
+#include"Q3led.h"
+
+void switch_init(void);
+int switch_status(void);
+
+
+#endif /* Q3SWITCH_H_ */

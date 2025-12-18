@@ -1,0 +1,2 @@
+../Src/Q3switch.c:9:6:switch_init	4	static
+../Src/Q3switch.c:23:5:switch_status	4	static

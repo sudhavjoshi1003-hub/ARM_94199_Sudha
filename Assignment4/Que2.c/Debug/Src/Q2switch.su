@@ -1,0 +1,2 @@
+../Src/Q2switch.c:11:6:switch_init	4	static
+../Src/Q2switch.c:25:5:switch_status	4	static
