@@ -1,0 +1,17 @@
+10:50:48 **** Incremental Build of configuration Debug for project Que1.c ****
+make -j4 all 
+arm-none-eabi-gcc "../Src/ext_intr.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F407G_DISC1 -DSTM32F4 -DSTM32F407VGTx -c -I../Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/ext_intr.d" -MT"Src/ext_intr.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=soft -mthumb -o "Src/ext_intr.o"
+arm-none-eabi-gcc -o "Que1.c.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\DELL\Desktop\Sunbeam data\ARM_94199_Sudha\Assignment5\Que1.c\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Que1.c.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: Que1.c.elf
+ 
+arm-none-eabi-size  Que1.c.elf 
+arm-none-eabi-objdump -h -S Que1.c.elf  > "Que1.c.list"
+   text	   data	    bss	    dec	    hex	filename
+   1404	      4	   1564	   2972	    b9c	Que1.c.elf
+Finished building: default.size.stdout
+ 
+Finished building: Que1.c.list
+ 
+
+10:50:49 Build Finished. 0 errors, 0 warnings. (took 1s.74ms)
+

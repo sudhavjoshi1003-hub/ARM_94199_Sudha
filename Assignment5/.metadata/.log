@@ -1,0 +1,84 @@
+!SESSION 2025-12-19 10:25:39.153 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-12-19 10:26:44.989
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-12-19 10:26:44.992
+!MESSAGE Log4j2 initialized with config file C:\Users\DELL\Desktop\Sunbeam data\ARM_94199_Sudha\Assignment5\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-12-19 10:26:49.750
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-19 10:29:51.700
+!MESSAGE Indexed 'Que1.c' (3 sources, 53 headers) in 1.4 sec: 1,954 declarations; 2,863 references; 0 unresolved inclusions; 2 syntax errors; 2 unresolved names (0.042%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-19 10:40:09.630
+!MESSAGE Indexed 'Led_switch_exti0' (7 sources, 63 headers) in 3.56 sec: 3,286 declarations; 4,883 references; 5 unresolved inclusions; 36 syntax errors; 736 unresolved names (8.3%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-19 12:24:39.066
+!MESSAGE Indexed 'Que2.c' (8 sources, 74 headers) in 2.19 sec: 4,730 declarations; 8,291 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.015%)
+
+!ENTRY org.eclipse.core.resources 4 368 2025-12-19 12:31:24.923
+!MESSAGE Resource '/Led_switch_exti0' does not exist.
+!STACK 0
+java.lang.Exception: Resource '/Led_switch_exti0' does not exist.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:364)
+	at org.eclipse.core.internal.resources.Project.open(Project.java:1069)
+	at org.eclipse.core.internal.resources.Project.open(Project.java:1192)
+	at com.st.stm32cube.ide.mcu.ide.ui.project.internal.MCUProjectImporter$ProjectOperation.execute(MCUProjectImporter.java:189)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:112)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2451)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2476)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:124)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-19 12:31:28.202
+!MESSAGE Indexed 'Led_switch_exti0' (7 sources, 66 headers) in 1.03 sec: 3,437 declarations; 5,804 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.022%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-19 13:14:58.850
+!MESSAGE Indexed 'Que3.c' (7 sources, 66 headers) in 1.03 sec: 3,437 declarations; 5,804 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.022%)
+!SESSION 2025-12-19 14:20:42.254 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  C:\Users\DELL\Desktop\Sunbeam data\ARM_94199_Sudha\Assignment5\Que3.c\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\DELL\Desktop\Sunbeam data\ARM_94199_Sudha\Assignment5\Que3.c\.cproject
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-12-19 14:20:54.748
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-12-19 14:20:54.750
+!MESSAGE Log4j2 initialized with config file C:\Users\DELL\Desktop\Sunbeam data\ARM_94199_Sudha\Assignment5\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-12-19 14:21:04.506
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-19 14:21:10.136
+!MESSAGE Indexed 'Que3.c' (7 sources, 66 headers) in 3.17 sec: 3,437 declarations; 5,800 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.022%)
+!SESSION 2025-12-22 14:22:24.721 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  C:\Users\DELL\Desktop\Sunbeam data\ARM_94199_Sudha\Assignment5\Que3.c\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\DELL\Desktop\Sunbeam data\ARM_94199_Sudha\Assignment5\Que3.c\.cproject
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-12-22 14:22:53.781
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-12-22 14:22:53.783
+!MESSAGE Log4j2 initialized with config file C:\Users\DELL\Desktop\Sunbeam data\ARM_94199_Sudha\Assignment5\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-12-22 14:23:04.083
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-22 14:23:08.337
+!MESSAGE Indexed 'Que3.c' (7 sources, 66 headers) in 3.83 sec: 3,437 declarations; 5,802 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.022%)

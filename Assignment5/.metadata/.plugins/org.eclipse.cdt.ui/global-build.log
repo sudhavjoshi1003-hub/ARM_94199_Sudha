@@ -1,0 +1,38 @@
+14:30:13 **** Incremental Build of configuration Debug for project Que3.c ****
+make -j4 all 
+arm-none-eabi-gcc "../Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F407G_DISC1 -DSTM32F4 -DSTM32F407VGTx -c -I../Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/main.d" -MT"Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=soft -mthumb -o "Src/main.o"
+../Src/main.c:23:17: warning: type defaults to 'int' in declaration of 'exti_flag' [-Wimplicit-int]
+   23 | extern volatile exti_flag;
+      |                 ^~~~~~~~~
+arm-none-eabi-gcc -o "Que3.c.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\DELL\Desktop\Sunbeam data\ARM_94199_Sudha\Assignment5\Que3.c\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Que3.c.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: Que3.c.elf
+ 
+arm-none-eabi-size  Que3.c.elf 
+arm-none-eabi-objdump -h -S Que3.c.elf  > "Que3.c.list"
+   text	   data	    bss	    dec	    hex	filename
+   1328	      4	   1572	   2904	    b58	Que3.c.elf
+Finished building: default.size.stdout
+ 
+Finished building: Que3.c.list
+ 
+14:30:26 **** Incremental Build of configuration Debug for project Que3.c ****
+make -j4 all 
+arm-none-eabi-size  Que3.c.elf 
+   text	   data	    bss	    dec	    hex	filename
+   1328	      4	   1572	   2904	    b58	Que3.c.elf
+Finished building: default.size.stdout
+ 
+14:30:40 **** Incremental Build of configuration Debug for project Que3.c ****
+make -j4 all 
+arm-none-eabi-size  Que3.c.elf 
+   text	   data	    bss	    dec	    hex	filename
+   1328	      4	   1572	   2904	    b58	Que3.c.elf
+Finished building: default.size.stdout
+ 
+14:30:44 **** Incremental Build of configuration Debug for project Que3.c ****
+make -j4 all 
+arm-none-eabi-size  Que3.c.elf 
+   text	   data	    bss	    dec	    hex	filename
+   1328	      4	   1572	   2904	    b58	Que3.c.elf
+Finished building: default.size.stdout
+ 
