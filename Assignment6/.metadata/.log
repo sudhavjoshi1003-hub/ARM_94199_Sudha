@@ -1,0 +1,83 @@
+!SESSION 2025-12-24 17:57:39.496 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  C:\Users\DELL\Desktop\Sunbeam data\ARM_94199_Sudha\Assignment6\HAL_Switch_q1\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\DELL\Desktop\Sunbeam data\ARM_94199_Sudha\Assignment6\HAL_Switch_q1\.cproject
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-12-24 17:58:10.312
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-12-24 17:58:10.315
+!MESSAGE Log4j2 initialized with config file C:\Users\DELL\Desktop\Sunbeam data\ARM_94199_Sudha\Assignment6\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-12-24 17:58:16.640
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-24 17:58:32.229
+!MESSAGE Indexed 'HAL_Switch_q1' (19 sources, 115 headers) in 9.04 sec: 10,356 declarations; 36,097 references; 1 unresolved inclusions; 92 syntax errors; 240 unresolved names (0.51%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-24 18:00:27.117
+!MESSAGE Indexed 'HAL_Switch_q2' (19 sources, 114 headers) in 9.66 sec: 10,350 declarations; 34,236 references; 5 unresolved inclusions; 875 syntax errors; 1,191 unresolved names (2.6%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-24 18:00:48.321
+!MESSAGE Indexed 'HAL_Switch_q3' (19 sources, 114 headers) in 10.4 sec: 10,350 declarations; 34,288 references; 5 unresolved inclusions; 875 syntax errors; 1,197 unresolved names (2.6%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-24 18:03:15.805
+!MESSAGE Indexed 'HAL_LED_q1' (19 sources, 68 headers) in 5.43 sec: 8,529 declarations; 29,795 references; 15 unresolved inclusions; 874 syntax errors; 3,120 unresolved names (7.5%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-24 18:04:22.570
+!MESSAGE Indexed 'HAL_LED_q2' (19 sources, 114 headers) in 5.73 sec: 10,349 declarations; 34,244 references; 5 unresolved inclusions; 875 syntax errors; 1,195 unresolved names (2.6%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-24 18:04:57.805
+!MESSAGE Indexed 'HAL_LED_q3' (19 sources, 114 headers) in 4.33 sec: 10,349 declarations; 34,250 references; 5 unresolved inclusions; 875 syntax errors; 1,195 unresolved names (2.6%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-24 18:05:11.127
+!MESSAGE Indexed 'HAL_LED_q4' (19 sources, 114 headers) in 4.09 sec: 10,349 declarations; 34,250 references; 5 unresolved inclusions; 875 syntax errors; 1,195 unresolved names (2.6%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-24 18:05:28.800
+!MESSAGE Indexed 'HAL_LED_q5' (19 sources, 114 headers) in 4.44 sec: 10,349 declarations; 34,207 references; 5 unresolved inclusions; 875 syntax errors; 1,191 unresolved names (2.6%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-24 18:05:42.263
+!MESSAGE Indexed 'HAL_LED_q6' (19 sources, 114 headers) in 4.06 sec: 10,354 declarations; 34,728 references; 5 unresolved inclusions; 875 syntax errors; 1,228 unresolved names (2.7%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-24 18:05:56.686
+!MESSAGE Indexed 'HAL_EXINT_q1' (19 sources, 114 headers) in 4.24 sec: 10,356 declarations; 34,257 references; 5 unresolved inclusions; 875 syntax errors; 1,193 unresolved names (2.6%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-24 18:06:30.918
+!MESSAGE Indexed 'HAL_EXINT_q2' (19 sources, 114 headers) in 6.02 sec: 10,356 declarations; 34,242 references; 5 unresolved inclusions; 875 syntax errors; 1,191 unresolved names (2.6%)
+!SESSION 2025-12-24 23:07:45.223 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-12-24 23:08:32.031
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-12-24 23:08:32.033
+!MESSAGE Log4j2 initialized with config file C:\Users\DELL\Desktop\Sunbeam data\ARM_94199_Sudha\Assignment6\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-12-24 23:08:51.870
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2025-12-24 23:24:00.331 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  C:\Users\DELL\Desktop\Sunbeam data\ARM_94199_Sudha\Assignment6\HAL_Switch_q3\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\DELL\Desktop\Sunbeam data\ARM_94199_Sudha\Assignment6\HAL_Switch_q3\.cproject
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-12-24 23:24:44.109
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-12-24 23:24:44.113
+!MESSAGE Log4j2 initialized with config file C:\Users\DELL\Desktop\Sunbeam data\ARM_94199_Sudha\Assignment6\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-12-24 23:25:06.495
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-24 23:25:17.785
+!MESSAGE Indexed 'HAL_Switch_q3' (19 sources, 115 headers) in 9.39 sec: 10,356 declarations; 36,145 references; 1 unresolved inclusions; 92 syntax errors; 240 unresolved names (0.51%)
