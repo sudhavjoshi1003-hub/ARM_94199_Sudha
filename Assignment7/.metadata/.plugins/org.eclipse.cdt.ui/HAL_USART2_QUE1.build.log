@@ -1,0 +1,10 @@
+12:02:54 **** Incremental Build of configuration Debug for project HAL_USART2_QUE1 ****
+make -j4 all 
+arm-none-eabi-size  HAL_USART2_QUE1.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8676	     12	   1748	  10436	   28c4	HAL_USART2_QUE1.elf
+Finished building: default.size.stdout
+ 
+
+12:02:54 Build Finished. 0 errors, 0 warnings. (took 267ms)
+
