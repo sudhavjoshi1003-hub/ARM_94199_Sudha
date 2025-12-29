@@ -1,0 +1,10 @@
+10:24:54 **** Incremental Build of configuration Debug for project LCD_QUE4 ****
+make -j4 all 
+arm-none-eabi-size  LCD_QUE4.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9956	     12	   1660	  11628	   2d6c	LCD_QUE4.elf
+Finished building: default.size.stdout
+ 
+
+10:24:54 Build Finished. 0 errors, 0 warnings. (took 268ms)
+
