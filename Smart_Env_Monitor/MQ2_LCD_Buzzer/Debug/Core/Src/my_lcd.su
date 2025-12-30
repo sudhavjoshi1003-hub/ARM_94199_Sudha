@@ -1,0 +1,8 @@
+../Core/Src/my_lcd.c:19:19:lcd_i2c_send_nibble	32	static
+../Core/Src/my_lcd.c:33:6:lcd16x2_i2c_sendCommand	24	static
+../Core/Src/my_lcd.c:52:6:lcd16x2_i2c_sendData	24	static
+../Core/Src/my_lcd.c:71:6:lcd16x2_i2c_init	16	static
+../Core/Src/my_lcd.c:125:6:lcd16x2_i2c_setCursor	24	static
+../Core/Src/my_lcd.c:140:6:lcd16x2_i2c_clear	8	static
+../Core/Src/my_lcd.c:145:6:lcd16x2_i2c_1stLine	8	static
+../Core/Src/my_lcd.c:151:6:lcd16x2_i2c_printf	24	static

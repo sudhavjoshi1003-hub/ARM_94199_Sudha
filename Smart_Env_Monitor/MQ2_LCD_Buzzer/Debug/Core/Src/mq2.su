@@ -1,0 +1,2 @@
+../Core/Src/mq2.c:18:9:mq2_adc_init	24	static
+../Core/Src/mq2.c:29:6:mq2_display	16	static
